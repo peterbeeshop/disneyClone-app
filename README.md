@@ -25,7 +25,7 @@ the landing page and access other pages.
 *The type of hooks used included: useEffect, useReducer, useState and useDispatch & useSelector  from "react-redux"
 
 #### how to Launch the project
-*In order to run launch the projecct own your pc, clone the project , navigate into the project root directory on your terminal and "run npm install" 
+*In order to run the projecct on your pc, clone the project , navigate into the project root directory on your terminal and "run npm install" 
 to download the necessary dependecies. Then run "npm start" after that.
 
 ##### Live Demo
